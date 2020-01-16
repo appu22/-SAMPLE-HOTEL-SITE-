@@ -1,0 +1,2 @@
+# -SAMPLE-HOTEL-SITE-
+Mini project :  “SAMPLE HOTEL SITE”
